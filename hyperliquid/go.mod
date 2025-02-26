@@ -1,4 +1,4 @@
-module github.com/blandradio/go-hyperliquid/hyperliquid
+module github.com/0xdamahou/go-hyperliquid/hyperliquid
 
 go 1.23.4
 
